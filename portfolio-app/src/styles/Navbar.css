@@ -1,0 +1,47 @@
+.navlinks {
+    display: flex;
+    margin-top: 12px;
+    font-family: "Archivo Narrow", sans-serif;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.navlinks a {
+    color: black;
+    margin-left: 40px;
+    font-family: "Archivo Narrow", sans-serif;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.navlinks a:hover {
+    color: rgb(97, 134, 255);
+    text-decoration: none;
+}
+
+div.container-fluid {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 22px;
+    justify-content: space-between;
+    line-height: 33px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 0 none;
+    padding: 0;
+    width: 100%;
+}
+
+.initials {
+    box-sizing: border-box;
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: bolder;
+    font-size: 42px;
+    margin-top: 15px;
+    margin-left: 15px;
+    line-height: 33px;
+    outline: 0 none;
+    text-decoration: none;
+}

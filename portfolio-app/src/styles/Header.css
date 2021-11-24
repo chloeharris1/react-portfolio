@@ -1,0 +1,23 @@
+.header {
+    background-color: #c1b6b3;
+    width: auto;
+}
+
+.initials {
+    font-size: 60px;
+}
+
+.name {
+    float: right;
+    margin-right: 6rem;
+    transform: translateY(-6rem);
+    color: white;
+    padding: 1rem;
+    font-size: 60px;
+    font-family: "Julius Sans One", sans-serif;
+}
+
+.sunset {
+    background-repeat: no-repeat;
+    background-position: center;
+}

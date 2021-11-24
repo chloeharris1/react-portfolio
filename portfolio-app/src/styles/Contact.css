@@ -1,0 +1,9 @@
+.contact-me {
+    font-family: "Julius Sans One", sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#contact-form {
+    display: flex;
+}
